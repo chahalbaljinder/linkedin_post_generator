@@ -1,0 +1,63 @@
+name: LinkedIn Content Aggregator
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write # Needed to write to README.md
+
+jobs:
+  update-readme-with-tech-news:
+    name: Update with latest tech and finance news
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Tech News
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "TECH_NEWS"
+          feed_list: "https://techcrunch.com/feed/, https://www.theverge.com/rss/index.xml, https://www.wired.com/feed/rss"
+          max_post_count: 5
+          template: '<div class="content-card tech"><span class="tag">TECH</span><h3><a href="$url">$title</a></h3><p class="desc">$description</p><div class="date">$date</div></div>'
+          date_format: 'MMMM DD, YYYY'
+          disable_sort: false
+          
+      - name: Tech Jobs
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "TECH_JOBS"
+          feed_list: "https://remoteok.com/remote-tech-jobs.rss, https://stackoverflow.com/jobs/feed?q=tech, https://weworkremotely.com/categories/remote-programming-jobs.rss"
+          max_post_count: 5
+          template: '<div class="content-card jobs"><span class="tag">JOBS</span><h3><a href="$url">$title</a></h3><p class="desc">$description</p><div class="date">$date</div></div>'
+          date_format: 'MMMM DD, YYYY'
+          
+      - name: Finances
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "FINANCE_NEWS"
+          feed_list: "https://www.cnbc.com/id/10000664/device/rss/rss.html, https://www.forbes.com/money/feed/, https://www.ft.com/rss/home"
+          max_post_count: 5
+          template: '<div class="content-card finance"><span class="tag">FINANCE</span><h3><a href="$url">$title</a></h3><p class="desc">$description</p><div class="date">$date</div></div>'
+          date_format: 'MMMM DD, YYYY'
+          
+      - name: Stock Market News
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "STOCK_MARKET"
+          feed_list: "https://seekingalpha.com/feed.xml, https://www.investors.com/category/market-trend/stock-market-today/feed/, https://www.marketwatch.com/rss/topstories"
+          max_post_count: 5
+          template: '<div class="content-card stocks"><span class="tag">STOCKS</span><h3><a href="$url">$title</a></h3><p class="desc">$description</p><div class="date">$date</div></div>'
+          date_format: 'MMMM DD, YYYY'
+          
+      - name: Breaking News
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BREAKING_NEWS"
+          feed_list: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml, https://feeds.bbci.co.uk/news/rss.xml, https://www.reuters.com/rss/topNews"
+          max_post_count: 5
+          template: '<div class="content-card breaking"><span class="tag">BREAKING</span><h3><a href="$url">$title</a></h3><p class="desc">$description</p><div class="date">$date</div></div>'
+          date_format: 'MMMM DD, YYYY'

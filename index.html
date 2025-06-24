@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Content Aggregator</title>
+    <style>
+        :root {
+            --primary-color: #0077B5; /* LinkedIn blue */
+            --tech-color: #6366F1;
+            --jobs-color: #22C55E;
+            --finance-color: #3B82F6;
+            --stocks-color: #EC4899;
+            --breaking-color: #EF4444;
+            --border-radius: 8px;
+            --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --main-bg: #F9FAFB;
+            --card-bg: #FFFFFF;
+            --text-primary: #111827;
+            --text-secondary: #4B5563;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        
+        body {
+            background-color: var(--main-bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .section {
+            margin-bottom: 3rem;
+        }
+        
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #E5E7EB;
+            color: var(--text-primary);
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .content-card {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: var(--card-shadow);
+            padding: 1.5rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            border-top: 4px solid var(--tech-color);
+        }
+        
+        .content-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .content-card.tech {
+            border-top-color: var(--tech-color);
+        }
+        
+        .content-card.jobs {
+            border-top-color: var(--jobs-color);
+        }
+        
+        .content-card.finance {
+            border-top-color: var(--finance-color);
+        }
+        
+        .content-card.stocks {
+            border-top-color: var(--stocks-color);
+        }
+        
+        .content-card.breaking {
+            border-top-color: var(--breaking-color);
+        }
+        
+        .tag {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: white;
+            background-color: var(--tech-color);
+            position: absolute;
+            top: -12px;
+            left: 1rem;
+        }
+        
+        .content-card.tech .tag {
+            background-color: var(--tech-color);
+        }
+        
+        .content-card.jobs .tag {
+            background-color: var(--jobs-color);
+        }
+        
+        .content-card.finance .tag {
+            background-color: var(--finance-color);
+        }
+        
+        .content-card.stocks .tag {
+            background-color: var(--stocks-color);
+        }
+        
+        .content-card.breaking .tag {
+            background-color: var(--breaking-color);
+        }
+        
+        .content-card h3 {
+            margin: 0.75rem 0;
+            font-size: 1.25rem;
+            line-height: 1.4;
+        }
+        
+        .content-card a {
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .content-card a:hover {
+            color: var(--primary-color);
+        }
+        
+        .content-card .desc {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+            flex-grow: 1;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        
+        .content-card .date {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-top: auto;
+        }
+        
+        .copy-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: var(--border-radius);
+            padding: 0.5rem 1rem;
+            font-size: 0.875rem;
+            cursor: pointer;
+            margin-top: 1rem;
+            transition: background-color 0.3s ease;
+        }
+        
+        .copy-btn:hover {
+            background-color: #005885;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 1rem;
+            border-top: 1px solid #E5E7EB;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+        
+        @media (max-width: 768px) {
+            .card-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            body {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LinkedIn Content Aggregator</h1>
+            <p>Automatically updated content for your LinkedIn posts</p>
+        </header>
+        
+        <div class="section">
+            <h2 class="section-title">🖥️ Technology News</h2>
+            <div class="card-grid">
+                <!-- TECH_NEWS:START -->
+                <!-- TECH_NEWS:END -->
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">💼 Tech Job Opportunities</h2>
+            <div class="card-grid">
+                <!-- TECH_JOBS:START -->
+                <!-- TECH_JOBS:END -->
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">💰 Finance Updates</h2>
+            <div class="card-grid">
+                <!-- FINANCE_NEWS:START -->
+                <!-- FINANCE_NEWS:END -->
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">📊 Stock Market Trends</h2>
+            <div class="card-grid">
+                <!-- STOCK_MARKET:START -->
+                <!-- STOCK_MARKET:END -->
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2 class="section-title">🔥 Breaking News</h2>
+            <div class="card-grid">
+                <!-- BREAKING_NEWS:START -->
+                <!-- BREAKING_NEWS:END -->
+            </div>
+        </div>
+        
+        <footer>
+            <p>This content is automatically updated using <a href="https://github.com/gautamkrishnar/blog-post-workflow" target="_blank">blog-post-workflow</a></p>
+            <p>Last updated: <span id="lastUpdated"></span></p>
+        </footer>
+    </div>
+    
+    <script>
+        // Set current date
+        document.getElementById('lastUpdated').textContent = new Date().toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+        
+        // Function to copy LinkedIn post content
+        function copyContent(element) {
+            const card = element.closest('.content-card');
+            const title = card.querySelector('h3').textContent;
+            const desc = card.querySelector('.desc').textContent;
+            const link = card.querySelector('a').href;
+            const tag = card.querySelector('.tag').textContent;
+            
+            const postContent = `📰 ${tag}: ${title}\n\n${desc}\n\nRead more: ${link}\n\n#${tag.toLowerCase()} #LinkedIn #ProfessionalUpdate`;
+            
+            navigator.clipboard.writeText(postContent).then(() => {
+                element.textContent = 'Copied!';
+                setTimeout(() => {
+                    element.textContent = 'Copy for LinkedIn';
+                }, 2000);
+            });
+        }
+    </script>
+</body>
+</html>
