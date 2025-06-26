@@ -8,7 +8,7 @@ Updated automatically every 6 hours.
 ### 🖥️ Technology News
 Latest updates from the world of technology.
 
-<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025">Here are 14 of our favorite deals from Amazon’s early Prime Day sale</a></h3><p class="desc">
+<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/25/metas-recruiting-blitz-claims-three-openai-researchers/">Meta’s recruiting blitz claims three OpenAI researchers</a></h3><p class="desc">In the fight for top AI talent, Meta just reportedly snagged a win, poaching three OpenAI researchers despite rival Sam Altman&amp;#8217;s public mockery of Mark Zuckerberg&amp;#8217;s lavish hiring tactics. The latest victory in Zuckerberg&amp;#8217;s widely-reported recruiting blitz: Lucas Beyer, Alexander Kolesnikov, and Xiaohua Zhai – who established OpenAI&amp;#8217;s Zurich office – have joined Meta&amp;#8217;s superintelligence [&amp;#8230;]</p><div class="date">5050 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/25/indian-drone-startup-raphe-mphibr-raises-100m-as-military-uav-demand-soars/">Indian drone startup Raphe mPhibr raises $100M as military UAV demand soars</a></h3><p class="desc">The startup aims to boost its R&amp;#038;D and local production capabilities amid growing demand for drones in battlefields and for border surveillance.</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025">Here are 14 of our favorite deals from Amazon’s early Prime Day sale</a></h3><p class="desc">
 											
 
 						
@@ -124,27 +124,7 @@ Latest updates from the world of technology.
 
 &lt;iframe loading=&quot;lazy&quot; src=&quot;https://embed.documentcloud.org/documents/25984135-richard-kadrey-et-al-v-meta-partial-summary-judgment/?embed=1&quot; width=&quot;100%&quot; height=&quot;600px&quot; allow=&quot;fullscreen&quot;&gt;&lt;/iframe&gt;
 						
-									</p><div class="date">1313 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/">Federal judge sides with Meta in lawsuit over training AI models on copyrighted books</a></h3><p class="desc">A federal judge sided with Meta on Wednesday in a lawsuit brought against the company by 13 book authors, including Sarah Silverman, that alleged the company had illegally trained its AI models on their copyrighted works. Federal Judge Vince Chhabria issued a summary judgment — meaning the judge was able to decide on the case [&amp;#8230;]</p><div class="date">4040 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/25/brad-feld-on-give-first-and-the-art-of-mentorship-at-any-age/">Brad Feld on “Give First” and the art of mentorship &lpar;at any age&rpar;</a></h3><p class="desc">Brad Feld has spent decades operating by a simple principle: give without expecting anything in return. This philosophy goes beyond traditional pay-it-forward thinking, he says. It&amp;#8217;s about helping others, knowing only that meaningful connections and opportunities will emerge organically over time if you do. The entrepreneur and VC, who began angel investing in the 1990s, [&amp;#8230;]</p><div class="date">3131 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/693342/anthropic-claude-ai-apps-artifact">Anthropic now lets you make apps right from its Claude AI chatbot</a></h3><p class="desc">
-											
-
-						
-&lt;figure&gt;
-
-&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Claude-Create-Artifacts-MBP.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
-	&lt;figcaption&gt;
-		&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;Anthropic is adding a new feature to its Claude AI chatbot that lets you &lt;a href=&quot;https://www.anthropic.com/news/claude-powered-artifacts&quot;&gt;build AI-powered apps&lt;/a&gt; right inside the app. The upgrade, launching in beta, builds upon Anthropic’s Artifacts feature introduced last year that lets you &lt;a href=&quot;https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch&quot;&gt;see and interact with&lt;/a&gt; what you ask Claude to make.&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;“Start building in the Claude app by enabling this new interactive capability,” the company says &lt;a href=&quot;https://www.anthropic.com/news/claude-powered-artifacts&quot;&gt;in a blog post&lt;/a&gt;. “Simply describe what you want to create, and Claude will write the code for you.” It basically sounds like vibe coding, but with the ability to see the results right inside Claude. You can briefly see how it all works in &lt;a href=&quot;https://www.youtube.com/watch?v=PBxwtabGltc&quot;&gt;a video from Anthropic&lt;/a&gt; that shows somebody building a chat app.&lt;/p&gt;
-&lt;div class=&quot;youtube-embed&quot;&gt;&lt;iframe title=&quot;Demo: Build a Claude-powered app&quot; src=&quot;https://www.youtube.com/embed/PBxwtabGltc?rel=0&quot; allowfullscreen allow=&quot;accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;Early users of the feature have built things like AI-powered games, learning tools, data analysis apps, writing assistants, and even agent workflows that “orchestrate multiple Claude calls for complex tasks,” Claude says. Apps will be able to “interact with Claude through an API.”&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;Anthropic also wants people to share the apps that they make, and it’s encouraging that by making so that somebody else’s API usage of your app “counts against &lt;em&gt;their&lt;/em&gt; subscription, not yours.”&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;The feature is available on Anthropic’s Free, Pro, and Max tiers.&lt;/p&gt;
-						
-									</p><div class="date">3333 DD, YYYY</div></div><!-- TECH_NEWS:END -->
+									</p><div class="date">1313 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/25/federal-judge-sides-with-meta-in-lawsuit-over-training-ai-models-on-copyrighted-books/">Federal judge sides with Meta in lawsuit over training AI models on copyrighted books</a></h3><p class="desc">A federal judge sided with Meta on Wednesday in a lawsuit brought against the company by 13 book authors, including Sarah Silverman, that alleged the company had illegally trained its AI models on their copyrighted works.</p><div class="date">4040 DD, YYYY</div></div><!-- TECH_NEWS:END -->
 
 ### 💼 Tech Job Opportunities
 Recent job postings in the technology sector.
