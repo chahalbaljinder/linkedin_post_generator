@@ -8,7 +8,97 @@ Updated automatically every 6 hours.
 ### 🖥️ Technology News
 Latest updates from the world of technology.
 
-<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/29/why-ai-will-eat-mckinseys-lunch-but-not-today/">Why AI will eat McKinsey’s lunch —  but not today</a></h3><p class="desc">Navin Chaddha, managing director of the 55-year-old Silicon Valley venture firm Mayfield, is betting big on AI&amp;#8217;s ability to transform people-heavy industries like consulting, law, and accounting. The veteran investor, whose wins include Lyft, Poshmark, and HashiCorp, recently discussed at TechCrunch&amp;#8217;s StrictlyVC evening in Menlo Park why he believes &amp;#8220;AI teammates&amp;#8221; can create software-like margins [&amp;#8230;]</p><div class="date">1010 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/29/openai-reportedly-recalibrating-compensation-in-response-to-meta-hires/">OpenAI reportedly ‘recalibrating’ compensation in response to Meta hires</a></h3><p class="desc">With Meta successfully poaching a number of its senior researchers, an OpenAI executive reportedly reassured team members Saturday that company leadership has not “been standing idly by.”</p><div class="date">1616 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/story/openai-meta-leadership-talent-rivalry/">OpenAI Leadership Responds to Meta Offers: ‘Someone Has Broken Into Our Home’</a></h3><p class="desc">As Mark Zuckerberg lures away top research talent to Meta, OpenAI executives say they&#39;re “recalibrating comp,” according to an internal memo.</p><div class="date">0707 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/29/trump-says-hes-found-a-buyer-for-tiktok/">Trump says he’s found a buyer for TikTok</a></h3><p class="desc">A group of “very wealthy people” is set to buy short-form video app TikTok, according to President Donald Trump.</p><div class="date">5353 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/06/29/with-f1-apple-finally-has-a-theatrical-hit/">With ‘F1’, Apple finally has a theatrical hit</a></h3><p class="desc">Looks like Apple has its first bona fide box office hit.</p><div class="date">3535 DD, YYYY</div></div><!-- TECH_NEWS:END -->
+<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/694891/anker-power-bank-global-recall-fire-risk-battery">Anker is recalling another five power banks over fire risks</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;&quot; data-caption=&quot;Check your Anker power banks to see if they carry any of these model numbers.&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Anker-power-bank-June-2025-recall.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+	Check your Anker power banks to see if they carry any of these model numbers.	&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Anker has issued its second product recall so far this month, warning customers that &lt;a href=&quot;https://www.anker.com/rc2506&quot;&gt;five additional power bank models&lt;/a&gt; should stop being used “immediately due to the risk of overheating, melting, smoke, or fire.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;“While the likelihood of malfunction is considered minimal, out of an abundance of caution, we have decided to initiate a voluntary global recall of several Anker power bank models,” Anker announced. The concerns mirror those that Anker mentioned in its &lt;a href=&quot;https://www.theverge.com/news/686084/anker-recall-uscpsc-power-bank-battery-powercore-a1263&quot;&gt;earlier recall of model A1263 PowerCore 10000 power banks&lt;/a&gt; sold in the US, with the company announcing that it has identified a “potential issue” with lithium-ion batteries provided by one of its suppliers.&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;The following products are affected by the recall and can be identified by locating the model number on the back or side of the device:&lt;/p&gt;
+
+&lt;ul class=&quot;wp-block-list&quot;&gt;
+&lt;li&gt;Anker Power Bank &lpar;model A1257 and A1647&rpar;&lt;/li&gt;
+
+
+
+&lt;li&gt;Anker MagGo Power Bank &lpar;model A1652&rpar;&lt;/li&gt;
+
+
+
+&lt;li&gt;Anker Zolo Power Bank &lpar;model A1681 and A1689&rpar;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Anker is offering affected customers in the US the choice of a free replacement power bank or a gift card to use on the Anker website. You can claim these by &lt;a href=&quot;https://www.anker.com/rc2506-form&quot;&gt;submitting a recall claim form&lt;/a&gt; on Anker’s website alongside a verified product serial number or proof of purchase.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;While Anker flagged purchase dates between June 1st, 2016 and December 31st, 2022 for the model A1263 recall earlier this month, it hasn’t detailed a similar timeline for the additional five power banks, which are mostly more recent models. Some were still available to buy prior to the company’s latest announcement.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Anker says that any power banks affected by this recall need to be safely disposed of at a facility that accepts lithium-ion batteries. Due to the risk of fires, these should not be thrown away in general trash, recycling bins, or at the used battery boxes provided at various retail locations.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;The US &lt;a href=&quot;https://www.cpsc.gov/Recalls/2025/More-than-One-Million-Anker-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Manufactured-by-Anker-Innovations&quot;&gt;Consumer Product Safety Commission&lt;/a&gt; said it has received 19 reports of fires and explosions related to the model A1263 recall earlier this month. It’s currently unclear if similar reports have been made regarding the other power banks that Anker is recalling, but given the speedy recall and global escalation, the company appears to be taking the concerns seriously. Anker says global regulatory authorities have been formally notified to ensure the recall is compliant with local guidelines.&lt;/p&gt;
+						
+									</p><div class="date">0808 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/gallery/best-dyson-vacuums/">The 9 Best Dyson Vacuums &lpar;2025&rpar;, Tested and Reviewed</a></h3><p class="desc">Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.</p><div class="date">0404 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans">LLMs are optimizing the adult industry</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/porn_pixels_2halfsize.gif?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-drop-cap has-text-align-none&quot;&gt;When Ela Darling began performing in porn at the tail end of the 2000s, tube sites like Pornhub were relatively new, and major studios like Vivid and Digital Playground still dominated the market. For performers, the job was straightforward: show up to set, turn in a good performance, and collect a check. Everything else - from scripting the scene to editing and marketing to makeup - was generally handled by the studio&#39;s team of professionals.&lt;/p&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Fast forward to 2025. Vivid and Digital Playground are distant memories. Sites like OnlyFans - and competitors like JustForFans, Clips4Sale, and ManyVids - now rule the roost. And while that shift has empowered many performers to create careers that would have been unimaginable in earlier eras, it&#39;s also come with a cost. While some jobs, like broadcasting and distribution, are now handled by third-party platforms like OnlyFans, a great deal of the work that used to be handled by a studio is now the performers&#39; responsibility. In addition, these new sites heavily encourage interaction with fans. The most successful creators aren&#39;t just turning out hot porn scenes. They&#39;re constantly chatting with their subscribers and creating custom scenes …&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/ai-artificial-intelligence/692286/ai-bots-llm-onlyfans&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
+						
+									</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/694515/joby-delivers-first-aircraft-to-dubai-as-air-taxi-service-nears-launch">Joby delivers first aircraft to Dubai as air taxi service nears launch</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;photo of Joby air taxi&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;Image: Joby Aviation&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Joby_Dubai_1.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Joby Aviation is getting ready to take flight.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;The electric vertical takeoff and landing &lpar;eVTOL&rpar; company has delivered its first production aircraft to Dubai, where it plans to launch a commercial air taxi service in early 2026. Joby, which has successfully completed multiple flight tests with a pilot onboard, says it has begun in-market testing ahead of the anticipated launch of commercial operations.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;It’s a significant milestone for Joby, which has been developing the technology to power its multi-rotor aircraft since 2009. And its a significant milestone for the fledgling air taxi sector, which has been leaning on hype and promises for the future of air travel to attract investors and potential clients while its aircraft trudge through years of safety testing and certification.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Dubai is aiming to become a launchpad for advanced air mobility, &lt;a href=&quot;https://www.theverge.com/2024/2/12/24071060/joby-signs-a-deal-to-launch-air-taxi-service-in-dubai-by-2026&quot;&gt;granting Joby a six-year exclusive operating agreement&lt;/a&gt; last year. The agreement, signed at the World Governments Summit, provides Joby with regulatory and financial support from Dubai’s Road and Transport Authority &lpar;RTA&rpar;. The company has said it will begin operations from&amp;nbsp;&lt;a href=&quot;https://www.jobyaviation.com/news/joby-announces-beginning-work-first-dubai-vertiport/&quot;&gt;four planned vertiports&lt;/a&gt;, including Dubai International Airport and Palm Jumeirah.&lt;/p&gt;
+
+&lt;figure class=&quot;wp-block-pullquote&quot;&gt;&lt;blockquote&gt;&lt;p&gt;It’s a significant milestone for Joby, which has been developing the technology to power its multi-rotor aircraft since 2009.&lt;/p&gt;&lt;/blockquote&gt;&lt;/figure&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;In addition to the delivery in Dubai, Joby is also making progress here in the United States. The company is about to begin a process mandated by the Federal Aviation Administration called Type Inspection Authorization &lpar;TIA&rpar;, in which the FAA sends its own pilots to test out Joby’s aircraft. TIA signals the final stage of testing before commercial passenger operations can begin. &lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;“In my view,” said Paul Sciarra, chair of Joby’s board of directors, in an interview, “this combination — both the beginnings of commercial service in a big&amp;nbsp;international city, plus the real last lap of the certification program — I think are going to be&amp;nbsp;the two things that gear shifts this in people&amp;#8217;s mind from, ‘Gosh, this is awesome, like, when&amp;#8217;s it&amp;nbsp;going to show up?’ to ‘Holy crap, it&amp;#8217;s happening tomorrow.’” &lt;/p&gt;
+&lt;div class=&quot;instagram-embed&quot;&gt;&lt;a href=&quot;https://www.instagram.com/reel/DCRh7HSyLTC/?hl=en&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;View Link&lt;/a&gt;&lt;/div&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;In addition to test flights, the company plans on conducting a series of demonstration flights along the routes it plans on flying. Then it will shift to commercial trips by the end of this year or early next, he said. &lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Sciarra also said the environmental conditions in Dubai present a unique challenge, with average temperatures usually around 110 degrees. Maintaining reliable air conditioning in the aircraft will be crucial for passenger comfort, he said. And there are a lot more “boxes to check” before commercial flights can commence, including training on-the-ground mechanics and flight crews. &lt;/p&gt;
+&lt;img src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/Joby_Dubai_3.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,10.736770525544,100,78.526458948912&quot; alt=&quot;image of Joby air taxi&quot; title=&quot;image of Joby air taxi&quot; data-has-syndication-rights=&quot;1&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;Image: Joby Aviation&quot; /&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;“I think we&amp;#8217;re getting ever&amp;nbsp;closer to that moment when people are going to be able to go to a place and book a flight on&amp;nbsp;this service, or see these aircraft flying over a place that they&amp;#8217;re familiar with,” Sciarra said. “That&amp;#8217;s not years away. That&amp;#8217;s like months away&amp;nbsp;at this point.”&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Joby’s all-electric aircraft has six rotors and seats five, including the pilot. The vehicle can take off vertically, like a helicopter, and then shift into forward flight using tilt rotors. Joby says it can reach a top speed of 200mph, travel 150 miles on a single battery charge, and is 100 times quieter than a conventional aircraft. Its pouch-style lithium-ion batteries power the craft’s six electric motors for &lt;a href=&quot;https://www.jobyaviation.com/news/joby-completes-flight-of-more-than-150-miles/&quot;&gt;at least 10,000 flight cycles&lt;/a&gt;, according to Joby’s founder JoeBen Bevirt. &lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Joby is also ramping up manufacturing, making it the first eVTOL maker to deliver multiple production aircraft. The company now has five aircraft in its test fleet, including a hybrid hydrogen-electric variant. A second aircraft was &lt;a href=&quot;https://www.jobyaviation.com/news/joby-widens-usaf-partnership-will-deliver-two-evtol-aircraft-macdill-afb/&quot;&gt;recently delivered&lt;/a&gt; to the US Air Force as part of its ongoing defense partnerships.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Joby has received approximately $1 billion in outside investment, &lt;a href=&quot;https://www.theverge.com/2024/10/2/24260176/toyota-joby-aviation-air-taxi-vtol-investment-stock&quot;&gt;including $750 million from Toyota&lt;/a&gt;. Still, the company has struggled to meet financial expectations, &lt;a href=&quot;https://d1io3yog0oux5.cloudfront.net/_736f1caaee4fed5b2f055f2279202286/jobyaviation/db/1111/9856/file/2025Q1-Report+%281%29.pdf&quot;&gt;reporting $0 in revenue in the first quarter of 2025&lt;/a&gt;. Joby is hoping Dubai will set the stage for its inevitable launch in the US, including key markets like New York, Los Angeles, and Florida. And as its manufacturing facility in Dayton, Ohio, starts churning out more aircraft, the company expects that it will really take flight.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;“The broader external question,” Sciarra said, “is how many markets can we credibly address in this near term?”&amp;nbsp;&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;&lt;/p&gt;
+						
+									</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/gallery/best-wireless-chargers/">25 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed</a></h3><p class="desc">Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</p><div class="date">3030 DD, YYYY</div></div><!-- TECH_NEWS:END -->
 
 ### 💼 Tech Job Opportunities
 Recent job postings in the technology sector.
