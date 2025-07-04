@@ -8,7 +8,27 @@ Updated automatically every 6 hours.
 ### 🖥️ Technology News
 Latest updates from the world of technology.
 
-<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/politics/698148/white-house-wire-youtube">The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel</a></h3><p class="desc">
+<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/698315/slate-autos-electric-pickup-is-no-longer-under-20000-thanks-donald">Slate Auto’s electric pickup is no longer ‘under $20,000’ — thanks, Donald</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;The Slate Auto pickup with a banner above it that reads “Mid Twenties.”&quot; data-caption=&quot;The old “Under $20,000” banner has been replaced with “Mid Twenties.” | Image: Slate Auto&quot; data-portal-copyright=&quot;Image: Slate Auto&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/homepage-blank-slate-parking-lot-price-new.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+	The old “Under $20,000” banner has been replaced with “Mid Twenties.” | Image: Slate Auto	&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Slate Auto’s American-made electric pickup — &lt;a href=&quot;https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos&quot;&gt;the one with no paint, no stereo, and no touchscreen&lt;/a&gt; — is no longer priced “under $20,000.” The increase is a result of Trump’s “Big, beautiful bill,” which will &lt;a href=&quot;https://www.theverge.com/policy/697879/congress-house-senate-pass-trump-obbb&quot;&gt;end the federal EV tax credits&lt;/a&gt; on September 30th when signed into law later today.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;That sub-$20,000 price for the &lt;a href=&quot;https://www.theverge.com/news/658223/slate-factory-electric-truck-location-indiana&quot;&gt;Indiana-built pickup&lt;/a&gt; was a big selling point for the EV startup backed by Jeff Bezos, and was only possible after applying the $7,500 tax credit to the retail price. The price promotion was scrubbed from the Slate Auto site as recently as yesterday, &lt;a href=&quot;https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/&quot;&gt;according to &lt;em&gt;TechCrunch&lt;/em&gt;&lt;/a&gt;. The website now shows an expected price of “mid-twenties.”&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Slate’s under $20,000 price tag for a vehicle it won’t start delivering until late 2026 was always accompanied by an asterisk, with fine print highlighting federal incentives that were “subject to change.” And change &lt;a href=&quot;https://www.theverge.com/electric-cars/672911/ev-tax-credit-elimninate-house-republican-bill&quot; data-type=&quot;link&quot; data-id=&quot;https://www.theverge.com/electric-cars/672911/ev-tax-credit-elimninate-house-republican-bill&quot;&gt;was certainly expected&lt;/a&gt;: Trump campaigned heavily on the promise to end President Biden’s fictitious “EV mandate,” because electric cars are for socialists in MAGA world.&lt;/p&gt;
+&lt;img src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/homepage-blank-slate-parking-lot-price.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,10.732984293194,100,78.534031413613&quot; alt=&quot;&quot; title=&quot;&quot; data-has-syndication-rights=&quot;1&quot; data-caption=&quot;&amp;lt;em&amp;gt;The old price promotion.&amp;lt;/em&amp;gt; | Image: Slate Auto &lpar;via Web Archive&rpar;&quot; data-portal-copyright=&quot;Image: Slate Auto &lpar;via Web Archive&rpar;&quot; /&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Trump’s embrace of oil and gas, while simultaneously dismantling incentives meant to spur the adoption of EVs and clean energies, is a gift to Chinese makers of electric cars, solar panels, and batteries. The US is now on course to own the past while &lt;a href=&quot;https://www.nytimes.com/interactive/2025/06/30/climate/china-clean-energy-power.html&quot;&gt;China is firmly positioned to dominate the future&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;&lt;/p&gt;
+						
+									</p><div class="date">1414 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/politics/698148/white-house-wire-youtube">The White House’s favorite source of pro-Trump news is … the White House’s YouTube channel</a></h3><p class="desc">
 											
 
 						
@@ -395,7 +415,7 @@ Latest updates from the world of technology.
 &lt;p class=&quot;has-text-align-none&quot;&gt;The Nintendo Switch 2 has a VRR screen - and originally, Nintendo advertised that the Switch 2 would also work with your VRR-capable TV. But Nintendo soon &lt;a href=&quot;https://bsky.app/profile/oliemack.bsky.social/post/3lmxv4nwjp22g&quot;&gt;scrubbed mentions of docked VRR&lt;/a&gt; from its website, and on May 16th, it apologized. &quot;Nintendo Switch 2 supports VRR in handheld mode only,&quot; the company &lt;a href=&quot;https://www.nintendolife.com/news/2025/05/nintendo-apologises-for-error-with-mention-of-switch-2-vrr-tv-support&quot;&gt;told &lt;em&gt;Nintendo Life&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, &lt;/em&gt;apologizing for &quot;the in …&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.theverge.com/report/697937/nintendo-switch-2-vrr-steam-deck-rog-x-ally-120hz&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
 						
-									</p><div class="date">5353 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/">Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit</a></h3><p class="desc">Slate Auto has updated its website after Congress passed President Trump&#39;s tax cut bill, which will eliminate the federal EV tax credit. </p><div class="date">4747 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/03/everyone-in-tech-has-an-opinion-about-soham-parekh/">Everyone in tech has an opinion about Soham Parekh</a></h3><p class="desc">There is now a new badge of honor for startup founders: your proximity to one previously unknown Indian software engineer named Soham Parekh.</p><div class="date">4141 DD, YYYY</div></div><!-- TECH_NEWS:END -->
+									</p><div class="date">5353 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/03/slate-auto-drops-under-20000-pricing-after-trump-administration-ends-federal-ev-tax-credit/">Slate Auto drops ‘under $20,000’ pricing after Trump administration ends federal EV tax credit</a></h3><p class="desc">Slate Auto has updated its website after Congress passed President Trump&#39;s tax cut bill, which will eliminate the federal EV tax credit. </p><div class="date">4747 DD, YYYY</div></div><!-- TECH_NEWS:END -->
 
 ### 💼 Tech Job Opportunities
 Recent job postings in the technology sector.
