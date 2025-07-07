@@ -8,7 +8,27 @@ Updated automatically every 6 hours.
 ### 🖥️ Technology News
 Latest updates from the world of technology.
 
-<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/">At least 36 new tech unicorns were minted in 2025 so far</a></h3><p class="desc">With AI igniting an investor frenzy, every month, more startups obtain unicorn status. Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year. While most are AI-related, a surprising number are focused in other industries like satellite space companies like Loft Orbital and blockchain-based trading site [&amp;#8230;]</p><div class="date">4747 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/">X blocks Reuters accounts in India</a></h3><p class="desc">The main Reuters news account, as well as the Reuters World account, have apparently been inaccessible to X users in India since Saturday evening.</p><div class="date">3434 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025">Here are 33 of our favorite deals from Amazon’s early Prime Day sale</a></h3><p class="desc">
+<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/improved-grok-criticizes-democrats-and-hollywoods-jewish-executives/">‘Improved’ Grok criticizes Democrats and Hollywood’s ‘Jewish executives’</a></h3><p class="desc">On Friday morning, Elon Musk declared, “We have improved @Grok significantly. You should notice a difference when you ask Grok questions.”</p><div class="date">5858 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/698999/tiktok-ban-sale-rumor-new-app-oracle">TikTok’s ‘ban’ problem could end soon with a new app and a sale</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25829979/STK051_TIKTOKBAN_B_CVirginia_D.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Even with the &lt;a href=&quot;https://www.theverge.com/23651507/tiktok-ban-us-news&quot;&gt;TikTok divest-or-ban law&lt;/a&gt; officially in effect since January, the app has only &lt;a href=&quot;https://www.theverge.com/2025/1/18/24346961/tiktok-shut-down-banned-in-the-us&quot;&gt;shut down service&lt;/a&gt; in the US for one day. Now, &lt;em&gt;&lt;a href=&quot;https://www.theinformation.com/articles/tiktok-building-new-version-app-ahead-expected-u-s-sale&quot;&gt;The Information&lt;/a&gt;&lt;/em&gt; reports that an agreement for a sale satisfying the law’s requirements is close and would come with a new, separate version of the app.  &lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Any deal, however, would need approval from the Chinese government, which is also still wrangling with the Trump administration over tariffs.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;The outlet reports that the Trump administration says it’s close to working out a sale to a group of “non-Chinese” investors, including Oracle, with current majority owner ByteDance maintaining a minority stake that would satisfy the terms of the &lt;a href=&quot;https://www.congress.gov/bill/118th-congress/house-bill/815/text#:~:text=DIVISION%20H%2D%2D%20%3C%3CNOTE%3A%20Protecting%20Americans%20from%20Foreign%20Adversary%20%0A%20%20%20%20Controlled%20Applications%20Act.%3E%3E%20PROTECTING%20AMERICANS%20FROM%20FOREIGN%20%0AADVERSARY%20CONTROLLED%20APPLICATIONS%20ACT&quot;&gt;Protecting Americans from Foreign Adversary Controlled Applications Act&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;Earlier today, the &lt;em&gt;&lt;a href=&quot;https://www.wsj.com/articles/oracle-gives-u-s-government-discount-on-cloud-and-software-9d893fc4&quot;&gt;Wall Street Journal&lt;/a&gt;&lt;/em&gt; reported that the General Services Administration says Oracle has reached a new agreement with the federal government that “is the first of its kind that provides the entire government with a discount on cloud infrastructure,” with a 75 percent discount on licensed software.&lt;/p&gt;
+
+&lt;p class=&quot;has-text-align-none&quot;&gt;TikTok’s staff is reportedly working on a new version of the app — dubbed M2, to the current app’s internal M designation — for release in app stores on September 5th. Trump issued a third &lt;a href=&quot;https://www.theverge.com/tiktok/697982/trump-tiktok-ban-apple-google-letters-pam-bondi&quot;&gt;legally questionable&lt;/a&gt; extension of the deadline to ban TikTok from US app stores &lt;a href=&quot;https://www.theverge.com/news/688252/tiktok-ban-trump-extension-deal&quot;&gt;last month&lt;/a&gt;, which is set to expire in mid-September. According to &lt;em&gt;The Information’s &lt;/em&gt;unnamed source, under the current timeline, the original TikTok app would leave app stores as the new one launches and then stop working entirely in March 2026.&lt;/p&gt;
+						
+									</p><div class="date">3434 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/7-new-tech-unicorns-were-minted-in-2025-so-far/">At least 36 new tech unicorns were minted in 2025 so far</a></h3><p class="desc">With AI igniting an investor frenzy, every month, more startups obtain unicorn status. Using data from Crunchbase and PitchBook, TechCrunch tracked down the VC-backed startups that became unicorns so far this year. While most are AI-related, a surprising number are focused in other industries like satellite space companies like Loft Orbital and blockchain-based trading site [&amp;#8230;]</p><div class="date">4747 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/x-blocks-reuters-accounts-in-india/">X blocked Reuters accounts in India</a></h3><p class="desc">The main Reuters news account, as well as the Reuters World account, have apparently been inaccessible to X users in India since Saturday evening.</p><div class="date">3434 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/tech/692002/amazon-prime-day-best-early-deals-2025">Here are 33 of our favorite deals from Amazon’s early Prime Day sale</a></h3><p class="desc">
 											
 
 						
@@ -135,21 +155,7 @@ Latest updates from the world of technology.
 
 &lt;p class=&quot;has-text-align-none&quot;&gt;&lt;/p&gt;
 						
-									</p><div class="date">2222 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/06/researchers-seek-to-influence-peer-review-with-hidden-ai-prompts/">Researchers seek to influence peer review with hidden AI prompts</a></h3><p class="desc">Academics may be leaning on a novel strategy to influence peer review of their research papers — adding hidden prompts designed to coax AI tools to deliver positive feedback.</p><div class="date">0303 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch">How to watch Summer Games Done Quick 2025</a></h3><p class="desc">
-											
-
-						
-&lt;figure&gt;
-
-&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/240701-FSH-00080.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
-	&lt;figcaption&gt;
-		&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;Grab your grill, your hot dogs, and your sparklers because it&#39;s time to celebrate… Summer Games Done Quick 2025. The annual speedrunning charity marathon benefitting Doctors without Borders is back starting July 6th and finishes July 12th. Here&#39;s how and most importantly &lt;em&gt;what&lt;/em&gt; to watch as you enjoy the reason for the speedrunning season. &lt;/p&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;Summer Games Done Quick 2025 starts on Sunday July 6th at 1:30 PM ET on &lt;a href=&quot;https://www.twitch.tv/gamesdonequick&quot;&gt;Twitch&lt;/a&gt;. Games Done Quick&#39;s &lt;a href=&quot;https://www.youtube.com/@gamesdonequick&quot;&gt;YouTube channel&lt;/a&gt; will have VODs up typically within a few short hours after the run completes so don&#39;t worry if you miss anything live. There&#39;s interesting runs every day during primetime so always &lt;a href=&quot;https://gamesdonequick.com/schedule/56&quot;&gt;check the sc …&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/games/697538/how-to-watch-summer-games-done-quick-2025-twitch&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
-						
-									</p><div class="date">0000 DD, YYYY</div></div><!-- TECH_NEWS:END -->
+									</p><div class="date">2222 DD, YYYY</div></div><!-- TECH_NEWS:END -->
 
 ### 💼 Tech Job Opportunities
 Recent job postings in the technology sector.
