@@ -8,43 +8,35 @@ Updated automatically every 6 hours.
 ### 🖥️ Technology News
 Latest updates from the world of technology.
 
-<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/story/hp-coupon-code/">20% Off HP Coupon Code | July 2025</a></h3><p class="desc">Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/news/706498/xai-grok-hitler-antisemitism-tesla-ai-bot">xAI explains the Grok Nazi meltdown as Tesla puts Elon’s bot in its cars</a></h3><p class="desc">
+<!-- TECH_NEWS:START --><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer">Foldables are in and suddenly really thin</a></h3><p class="desc">
 											
 
 						
 &lt;figure&gt;
 
-&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+&lt;img alt=&quot;&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/installer.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
 	&lt;figcaption&gt;
 		&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;Several days after temporarily shutting down the Grok AI bot that was producing antisemitic posts and praising Hitler in response to user prompts, Elon Musk’s AI company tried to explain why that happened. In &lt;a href=&quot;https://x.com/grok/status/1943916981104914779&quot;&gt;a series of posts on X&lt;/a&gt;, it said that “&amp;#8230;we discovered the root cause was an update to a code path upstream of the @grok bot. This is independent of the underlying language model that powers @grok.”&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;On the same day, &lt;a href=&quot;https://x.com/Tesla/status/1944049704276283456&quot;&gt;Tesla announced&lt;/a&gt; a new 2025.26 update rolling out “shortly” to its electric cars, which adds the Grok assistant to vehicles equipped with AMD-powered infotainment systems, which &lt;a href=&quot;https://www.theverge.com/2021/6/1/22462660/amd-tesla-model-x-s-plaid-ryzen-radeon-rdna-2&quot;&gt;have been available since mid-2021&lt;/a&gt;.  According to Tesla, “Grok is currently in Beta &amp;amp; does not issue commands to your car – existing voice commands remain unchanged.” As &lt;em&gt;&lt;a href=&quot;https://electrek.co/2025/07/12/tesla-launches-software-update-with-grok-but-doesnt-interface-car/&quot;&gt;Electrek&lt;/a&gt;&lt;/em&gt; notes, this should mean that whenever the update does reach customer-owned Teslas, it won’t be much different than using the bot as an app on a connected phone.&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;This isn’t the first time the Grok bot has had these kinds of problems or similarly explained them. In February, it blamed a change made by an unnamed ex-OpenAI employee for the bot disregarding sources that accused Elon Musk or Donald Trump of spreading misinformation. Then, in May, it began inserting allegations of white genocide in South Africa into posts about almost any topic. The company &lt;a href=&quot;https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee&quot;&gt;again blamed&lt;/a&gt; an “unauthorized modification,” and said it would start publishing Grok’s system prompts publicly.&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;xAI claims that a change on Monday, July 7th, “triggered an unintended action” that added an older series of instructions to its system prompts telling it to be “maximally based,”  and “not afraid to offend people who are politically correct.” &lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;The prompts are separate from the ones we noted were added to the bot a day earlier, and both sets are different from the ones the company says are currently in operation for the new Grok 4 assistant.&amp;nbsp;&lt;/p&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;These are the prompts specifically cited as connected to the problems:&lt;/p&gt;
-
-&lt;blockquote class=&quot;wp-block-quote is-layout-flow wp-block-quote-is-layout-flow&quot;&gt;
-&lt;p class=&quot;has-text-align-none&quot;&gt;“You tell it like it is and you are not afraid to offend people who are politically correct.”&lt;/p&gt;
-
-
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;* Understand the tone, context and language of the post. Reflect that in your response.”&lt;/p&gt;
-
-
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;* “Reply to the post just like a human, keep it engaging, dont repeat the information which is already present in the original post.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&quot;has-text-align-none&quot;&gt;The xAI explanation says those lines caused the Grok AI bot to break from other instructions that are supposed to prevent these types of responses, and instead produce “unethical or controversial opinions to engage the user,” as well as “reinforce any previously user-triggered leanings, including any hate speech in the same X thread,” and prioritize sticking to earlier posts from the thread.&lt;/p&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;Hi! Welcome to &lt;em&gt;Installer&lt;/em&gt; No. 89, your guide to the best and &lt;em&gt;Verge&lt;/em&gt;-iest stuff in the world. My name is Jay Peters, and I will be taking care of &lt;em&gt;Installer&lt;/em&gt; while David is on parental leave. All of us here at &lt;em&gt;The Verge&lt;/em&gt; are very excited for him and his family, and he&#39;ll be back later this year.&lt;/p&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;It&#39;s a huge honor to be writing this. I look forward to &lt;em&gt;Installer&lt;/em&gt; every week to see what awesome things David is obsessed with and what you all are into. &lpar;Thanks to everyone who sent over their favorite non-famous apps to get me started. Keep reading for some of those!&rpar; I&#39;m really excited to keep the party going. &lpar;If you&#39;re new here, welcome, and also you …&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
 						
-									</p><div class="date">5454 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/12/a-united-nations-research-institute-created-an-ai-refugee-avatar/">A United Nations research institute created an AI refugee avatar</a></h3><p class="desc">A research institute connected to the United Nations has created two AI-powered avatars designed to teach people about refugee issues. 404 Media wrote about an experiment conducted by a class at the United Nations University Center for Policy Research that resulted in the creation of two AI agents or avatars — Amina, a fictional woman [&amp;#8230;]</p><div class="date">0303 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/12/marc-andreessen-reportedly-told-group-chat-that-universities-will-pay-the-price-for-dei/">Marc Andreessen reportedly told group chat that universities will ‘pay the price’ for DEI</a></h3><p class="desc">Venture capitalist Marc Andreessen sharply criticized universities including Stanford and MIT, along with the National Science Foundation, in a group chat with AI scientists and Trump administration officials, according to screenshots viewed by the Washington Post.</p><div class="date">0707 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://techcrunch.com/2025/07/12/week-in-review-x-ceo-linda-yaccarino-steps-down/">Week in Review: X CEO Linda Yaccarino steps down</a></h3><p class="desc">Welcome back to Week in Review! We&amp;#8217;ve got tons of news for you this week, including a shakeup at X, Hugging Face&amp;#8217;s new robot, new phones from Nothing and Samsung, and a whole lot more. Have a great weekend! Off to do something else: X CEO Linda Yaccarino stepped down this week after a tumultuous [&amp;#8230;]</p><div class="date">0303 DD, YYYY</div></div><!-- TECH_NEWS:END -->
+									</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/review/lg-gram-pro-16-2025/">LG Gram Pro 16 &lpar;2025&rpar; Review: Thin Is Still In</a></h3><p class="desc">Thin is still in with this big update to LG’s impossibly light laptop line.</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump">Why GM’s CEO is still betting on electric vehicles &lpar;and racing&rpar;</a></h3><p class="desc">
+											
+
+						
+&lt;figure&gt;
+
+&lt;img alt=&quot;illustration of GM CEO Mary Barra&quot; data-caption=&quot;&quot; data-portal-copyright=&quot;Image: Cath Virginia / The Verge, Getty Images&quot; data-has-syndication-rights=&quot;1&quot; src=&quot;https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257849_GM_CEO_Mary_Barra_CVirginia.jpg?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100&quot; /&gt;
+	&lt;figcaption&gt;
+		&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;GM was the first major US automaker &lt;a href=&quot;https://www.theverge.com/2021/1/28/22254116/general-motors-carbon-neutral-vow-2040-tailpipe-emissions-ev&quot;&gt;to make the promise to go all-electric by 2035&lt;/a&gt;, just four years ago. Those promises have since turned into rough estimates under the second Donald Trump presidency, with the company softening language about its electrification goals. But GM is riding high on EV sales, and as CEO Mary Barra puts it, EVs are still the future - just on a delayed &lpar;and very flexible&rpar; timeline. &lt;/p&gt;
+&lt;p class=&quot;has-text-align-none&quot;&gt;&quot;We still believe in an all-electric future,&quot; Barra told &lt;em&gt;The Verge&lt;/em&gt; in an exclusive interview at the Le Mans race in France. &quot;The regulations were getting in front of where the consumer demand was, largely because of charging infrastruct …&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.theverge.com/gm-general-motors/705320/gm-ceo-mary-barra-interview-ev-cadillac-dei-trump&quot;&gt;Read the full story at The Verge.&lt;/a&gt;&lt;/p&gt;
+						
+									</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/story/for-algorithms-a-little-memory-outweighs-a-lot-of-time/">For Algorithms, Memory Is a Far More Powerful Resource Than Time</a></h3><p class="desc">One computer scientist’s “stunning” proof is the first progress in 50 years on one of the most famous questions in computer science.</p><div class="date">0000 DD, YYYY</div></div><div class="content-card tech"><span class="tag">TECH</span><h3><a href="https://www.wired.com/story/cup-holders-not-tech-makes-cars-lovable/">What Makes a Car Lovable? It&#39;s Not the Tech, It&#39;s the Cup Holders</a></h3><p class="desc">Frustration with the size, location, and design of cup holders in new cars is on the rise—and it holds enormous influence on whether we buy a ride or not.</p><div class="date">0000 DD, YYYY</div></div><!-- TECH_NEWS:END -->
 
 ### 💼 Tech Job Opportunities
 Recent job postings in the technology sector.
